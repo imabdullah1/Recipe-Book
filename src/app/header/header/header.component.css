@@ -1,0 +1,14 @@
+.active {
+  color: white;
+  padding: 15px;
+  background: rgba(53, 54, 54, 0.2);
+  border-radius: 5px;
+}
+.nav-link .fas {
+  display: inline; /* Ensure the icon is displayed */
+  margin-right: 5px; /* Space between icon and text */
+  font-size: 1.2em; /* Adjust size if necessary */
+}
+.dropdown-item i {
+  margin-right: 5px; /* Space between icon and text */
+}
